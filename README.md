@@ -18,4 +18,6 @@ The image is controlled using the keypad:
 - LOWER image: **keypad ZERO key**
 - ENLARGE image: **keypad PLUS key**
 - REDUCE image: **keypad MINUS key**
+- RESET POSITION to camera position: **keypad 5 key**
 
+You can use LEFT CONTROL to get more precise movements.
